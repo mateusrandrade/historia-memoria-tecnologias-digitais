@@ -33,22 +33,22 @@
 | --- | --- | --- |
 | 1 | 17/08 | |
 | 2 | 24/08 | |
-| 3 | 31/08 | [A1: Ambiente inicial de pesquisa + Nota dissertativa](avaliacoes/avaliacao-1.md) |
+| 3 | 31/08 | [A1: Ambiente inicial de pesquisa + Nota dissertativa](avaliacoes/avaliacao-1.md#c-o-que-deverá-ser-produzido) |
 | - | 07/09 | **Feriado** |
 | 4 | 14/09 | |
-| 5 | 21/09 | [A2.1: Análise crítica de um repositório ou acervo digital](avaliacoes/avaliacao-2.md) |
-| 6 | 28/09 | [A2.2: Exercício de descrição e documentação de documentos e suas representações digitais](avaliacoes/avaliacao-2.md) |
-| 7 | 05/10 | [A2.3: Reflexão crítica sobre preservação, infraestrutura e soberania digital](avaliacoes/avaliacao-2.md) |
+| 5 | 21/09 | [A2.1: Análise crítica de um repositório ou acervo digital](avaliacoes/avaliacao-2.md#parte-1-análise-crítica-de-um-repositório-ou-acervo-digital) |
+| 6 | 28/09 | [A2.2: Exercício de descrição e documentação de documentos e suas representações digitais](avaliacoes/avaliacao-2.md#parte-2-exercício-de-descrição-e-documentação-de-documentos-e-suas-representações-digitais) |
+| 7 | 05/10 | [A2.3: Reflexão crítica sobre preservação, infraestrutura e soberania digital](avaliacoes/avaliacao-2.md#parte-3-reflexão-crítica-sobre-preservação-infraestrutura-e-soberania-digital) |
 | - | 12/10 | **Feriado** |
-| 8 | 19/10 | [A3.1: Entrega parcial do Projeto](avaliacoes/avaliacao-3.md) |
-| 9 | 26/10 | [A3: Projeto: versão final](avaliacoes/avaliacao-3.md) |
+| 8 | 19/10 | [A3.1: Entrega parcial do Projeto](avaliacoes/avaliacao-3.md#c-o-que-deverá-ser-produzido) |
+| 9 | 26/10 | [A3: Projeto: versão final](avaliacoes/avaliacao-3.md#f-entrega-e-apresentação) |
 | - | 02/11 | **Feriado** |
-| 10 | 09/11 | [Apresentação do Projeto](avaliacoes/avaliacao-3.md) |
-| 11 | 16/11 | [4.1: Workflow de Pesquisa](avaliacoes/avaliacao-4.md) |
-| 12 | 23/11 | [4.2: Repositório e Versionamento](avaliacoes/avaliacao-4.md) |
-| 13 | 30/11 | [4.3: Diagnóstico FAIR e Estratégia de Abertura](avaliacoes/avaliacao-4.md) |
-| 14 | 07/12 | [4.4: Revisão por Pares](avaliacoes/avaliacao-4.md) |
-| 15 | 14/12 | [4.5: Apresentação Final](avaliacoes/avaliacao-4.md) |
+| 10 | 09/11 | [Apresentação do Projeto](avaliacoes/avaliacao-3.md#f-entrega-e-apresentação) |
+| 11 | 16/11 | [4.1: Workflow de Pesquisa](avaliacoes/avaliacao-4.md#41--workflow-de-pesquisa) |
+| 12 | 23/11 | [4.2: Repositório e Versionamento](avaliacoes/avaliacao-4.md#42--repositório-e-versionamento) |
+| 13 | 30/11 | [4.3: Diagnóstico FAIR e Estratégia de Abertura](avaliacoes/avaliacao-4.md#43--diagnóstico-fair-e-estratégia-de-abertura) |
+| 14 | 07/12 | [4.4: Revisão por Pares](avaliacoes/avaliacao-4.md#44--revisão-por-pares) |
+| 15 | 14/12 | [4.5: Apresentação Final](avaliacoes/avaliacao-4.md#45--apresentação-final) |
 
 ---
 
