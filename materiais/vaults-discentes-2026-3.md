@@ -1,12 +1,91 @@
 # Vaults individuais — 2026.3
 
-Cada discente possui um ambiente individual de trabalho no Google Drive.
+Cada discente possui uma pasta individual no Google Drive que funcionará como seu **Vault de trabalho ao longo da disciplina**.
 
-Acesse o link correspondente ao seu nome e, caso necessário, solicite
-acesso utilizando a conta Google que pretende utilizar durante a disciplina.
+Essa pasta será utilizada para disponibilizar notas-índice, modelos e outros materiais de apoio às atividades. Ela também poderá ser utilizada pelo(a) discente para organizar e desenvolver os arquivos produzidos durante o semestre.
 
-> Os Vaults são ambientes individuais. Solicite acesso apenas ao diretório
-> correspondente ao seu nome.
+## 1. Primeiro acesso
+
+Na tabela abaixo, localize **apenas o seu nome** e clique em **Acessar Vault**.
+
+Caso o Google Drive solicite autorização, peça acesso utilizando a **conta Google que você pretende utilizar regularmente durante a disciplina**.
+
+Depois que o acesso for autorizado, você poderá trabalhar com a pasta pelo navegador, pelo computador ou por dispositivos móveis.
+
+> **Importante:** cada Vault é individual. Não solicite acesso à pasta de outro(a) discente.
+
+## 2. Adicione o Vault ao seu Google Drive
+
+Depois de receber acesso à pasta, é recomendável criar um atalho para ela em **Meu Drive**. Dessa forma, você não precisará retornar a esta página sempre que quiser localizar seu Vault.
+
+No computador:
+
+1. Abra a pasta compartilhada no Google Drive.
+2. Clique com o botão direito sobre a pasta.
+3. Selecione **Organizar → Adicionar atalho**.
+4. Escolha **Meu Drive** como destino.
+5. Clique em **Adicionar atalho**.
+
+O atalho não cria uma segunda cópia dos arquivos. Ele aponta para a pasta original e permite acessar sempre sua versão atualizada.
+
+**Documentação oficial:** [Organizar arquivos e criar atalhos no Google Drive](https://support.google.com/drive/answer/2375091?co=GENIE.Platform%3DDesktop&hl=pt-BR)
+
+## 3. Usando o Vault no computador
+
+Para trabalhar com o Vault como uma pasta do seu próprio computador, instale o **Google Drive para computador**, disponível para Windows e macOS.
+
+Depois de instalar:
+
+1. Faça login com a mesma conta Google utilizada para acessar seu Vault.
+2. Abra o Google Drive para computador.
+3. Localize **Meu Drive**.
+4. O atalho para seu Vault poderá ser acessado a partir do ambiente do Google Drive no computador.
+5. As alterações realizadas nos arquivos sincronizados serão refletidas no Google Drive.
+
+O Google oferece duas formas principais de trabalhar com arquivos no computador:
+
+* **Streaming:** os arquivos permanecem principalmente na nuvem e ocupam menos espaço no computador.
+* **Espelhamento:** mantém os arquivos tanto no Google Drive quanto no armazenamento local, permitindo acesso permanente mesmo sem conexão.
+
+Para a maioria dos usos cotidianos, o próprio Google recomenda considerar o **streaming**, especialmente quando há conexão regular com a internet. O espelhamento pode ser útil quando é importante manter cópias locais disponíveis offline.
+
+**Documentação oficial:**
+
+* [Usar o Google Drive para computador](https://support.google.com/docs/answer/10838124?hl=pt-BR)
+* [Streaming e espelhamento de arquivos com o Drive para computador](https://support.google.com/drive/answer/13401938?hl=pt-BR)
+
+## 4. Usando o Vault no celular ou tablet
+
+Você também pode acessar o Vault pelo aplicativo **Google Drive** no celular ou tablet.
+
+Faça login com a mesma conta Google autorizada para acessar sua pasta. Você poderá abrir os arquivos, criar e organizar conteúdos e acessar seu Vault diretamente pelo dispositivo móvel.
+
+No Android, também é possível adicionar um atalho da pasta ao Google Drive:
+
+1. Abra o aplicativo Google Drive.
+2. Localize seu Vault.
+3. Toque em **Mais**.
+4. Selecione **Adicionar atalho ao Google Drive**.
+5. Escolha o local desejado.
+6. Toque em **Adicionar atalho**.
+
+**Documentação oficial:** [Atalhos do Google Drive em dispositivos Android](https://support.google.com/drive/answer/9700156?co=GENIE.Platform%3DAndroid&hl=pt-BR)
+
+## 5. Uma pasta, diferentes dispositivos
+
+O princípio mais importante é simples:
+
+**não crie Vaults diferentes em cada dispositivo.**
+
+O Vault compartilhado pelo professor é o seu ambiente de trabalho. Computador, navegador, tablet e celular são apenas diferentes formas de acessar essa mesma pasta.
+
+Assim, um arquivo alterado no computador poderá ser posteriormente acessado pelo celular ou pelo navegador, desde que a sincronização tenha sido concluída.
+
+Antes de desligar o computador ou trabalhar em outro dispositivo, confira se o Google Drive terminou de sincronizar suas alterações.
+
+---
+
+## Acesso aos Vaults
 
 | Discente | Vault |
 | --- | --- |
@@ -46,3 +125,5 @@ acesso utilizando a conta Google que pretende utilizar durante a disciplina.
 | Víctor Pinheiro Campos | [Acessar Vault](https://drive.google.com/drive/folders/1p-uwXV1IpV26y_ITlmttr2WQJq0Ldzm2) |
 | Vitória Guedes de Oliveira Ventura | [Acessar Vault](https://drive.google.com/drive/folders/16hGzhXPJn7l5KR4on2udBtsV27As0C-L) |
 | Yasmim Leite dos Santos | [Acessar Vault](https://drive.google.com/drive/folders/1Jp5BK__cZ2x0SQb0m91XEz_bCvu5BhLz) |
+
+> Os links acima dão acesso a ambientes individuais e restritos. O acesso a cada Vault depende de autorização e deve ser solicitado utilizando a conta Google que será utilizada pelo(a) discente durante a disciplina.
