@@ -5,7 +5,7 @@ Nesta página estarão reunidos materiais de apoio relativos ao uso do **Obsidia
 ## Vídeos tutoriais
 
 - [Vídeo tutorial sobre Obsidian](https://youtu.be/64qkBzaGnIw?si=hoykrX-30Hc5vdRv)
-- [The Only Beginner Obsidian Video You’ll Ever Need] (https://www.youtube.com/watch?v=oYoHKy72Qy0)
+- [The Only Beginner Obsidian Video You’ll Ever Need](https://www.youtube.com/watch?v=oYoHKy72Qy0)
 
 ---
 
